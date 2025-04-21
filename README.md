@@ -34,3 +34,8 @@ Data Transformation: Grouped data by time periods (hour/day/week), and categoriz
 Visualization: Created interactive visuals in Power BI to track patient load, staff performance, and treatment timelines.
 
 Insights: Identified peak hours and suggested optimal staff scheduling to improve service delivery.
+
+## Dashboard
+
+![Hospital ER Dashboard](https://github.com/user-attachments/assets/17fc9e02-745a-4aba-832e-77ac0ad17c89)
+
