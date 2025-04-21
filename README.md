@@ -2,6 +2,7 @@
 🎯 ## Objective:
 
 To monitor and improve emergency room performance by analyzing patient flow, wait times, peak hours, and resource allocation. The dashboard helps hospital management make data-driven decisions to enhance patient care and optimize staff scheduling.
+
 📄 ## Description:
 
 This dashboard provides a comprehensive view of the emergency room activity in a hospital. It tracks patient inflow, response times, resource utilization, and key metrics to improve decision-making and operational efficiency.
