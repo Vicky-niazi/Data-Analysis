@@ -32,6 +32,7 @@ Each project is organized in its own folder and includes:
 | **WordPress & Chatbots** | Bonus skill set for automation and website design |
 
 ---
+![ChatGPT Image Apr 21, 2025, 04_05_39 PM](https://github.com/user-attachments/assets/f4639a17-83d7-472b-8575-8198622a3060)
 
 
 
