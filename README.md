@@ -5,7 +5,8 @@ Welcome to my **Data Analysis Dashboards** repository! I’m passionate about tr
 With an academic background in **Finance (MBA)** and experience in **HR, Accounting, Social Media, and Program Coordination**, I combine business understanding with analytical skills to build dashboards that tell data stories clearly and effectively.
 
 ---
-https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F81%2F17%2F8b%2F81178b47a8598f0c81c4799f2cdd4057.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F817403401142635505%2F&docid=Da7vLvRatKujcM&tbnid=QCZULViz1nWbzM&vet=12ahUKEwjD3amegOmMAxUlgv0HHSSLJk4QM3oECC4QAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjD3amegOmMAxUlgv0HHSSLJk4QM3oECC4QAA
+
+![Animated GIF](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)
 
 ## 💼 What’s Inside?
 
