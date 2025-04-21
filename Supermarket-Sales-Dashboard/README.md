@@ -37,4 +37,8 @@ Visualizations: Designed interactive visuals to highlight key performance indica
 Business Insights: Identified high-performing branches and recommended inventory improvements for low-performing product lines.
 
 ##Dashboard:
-![Supermarket-sales-dashboard](https://github.com/user-attachments/assets/bf401d0b-25f2-4a60-843a-743d08b43faa)
+
+![Supermarket-sales-dashboard](https://github.com/user-attachments/assets/ba62129c-67d1-456c-90a9-066467515706)
+
+
+
