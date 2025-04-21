@@ -8,7 +8,7 @@ To monitor and improve emergency room performance by analyzing patient flow, wai
 This dashboard provides a comprehensive view of the emergency room activity in a hospital. It tracks patient inflow, response times, resource utilization, and key metrics to improve decision-making and operational efficiency.
 
 ## Data Sets:
-= <a href= "https://github.com/Vicky-niazi/Data-Analysis-Projects/blob/main/Hospital%20ER%20(1).csv">Dataset</a>
+= <a href= "https://github.com/Vicky-niazi/Data-Analysis/blob/main/Hospital-ER-Dashboard/Hospital%20ER%20(1).csv">Dataset</a>
 
 📊 ## KPIs / Questions Answered:
 
