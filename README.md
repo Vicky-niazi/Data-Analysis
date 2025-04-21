@@ -39,6 +39,6 @@ Each project is organized in its own folder and includes:
 
 Feel free to explore the projects, give feedback, or connect with me for collaboration opportunities.
 
-🌐 [LinkedIn][(www.linkedin.com/in/waqar-ahmed-khan-559a40161)  ](https://www.linkedin.com/in/waqar-ahmed-khan-559a40161/)
+🌐 [LinkedIn]= <a href= "https://www.linkedin.com/in/waqar-ahmed-khan-559a40161/">Linkedin</a>
 
 💼
