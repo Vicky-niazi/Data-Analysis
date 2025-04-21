@@ -1,6 +1,6 @@
 # Hospital Emergency Room Dashboard
 🎯 ## Objective:
-To track employee attendance, leave patterns, and remote work trends. This dashboard provides HR teams with insights to improve workforce planning, identify high absenteeism periods, and support efficient staffing decisions.
+To monitor and improve emergency room performance by analyzing patient flow, wait times, peak hours, and resource allocation. The dashboard helps hospital management make data-driven decisions to enhance patient care and optimize staff scheduling.
 📄 ## Description:
 This dashboard provides a comprehensive view of the emergency room activity in a hospital. It tracks patient inflow, response times, resource utilization, and key metrics to improve decision-making and operational efficiency.
 
