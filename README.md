@@ -1,12 +1,31 @@
 ## 👋 Welcome!
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+
+<!-- Your text goes here -->
+<h3>Welcome</h3>
+<p>
 Welcome to my **Data Analysis Dashboards** repository! I’m passionate about transforming raw data into meaningful insights using tools like **Power BI, Excel, SQL, and Python**.
 
 With an academic background in **Finance (MBA)** and experience in **HR, Accounting, Social Media, and Program Coordination**, I combine business understanding with analytical skills to build dashboards that tell data stories clearly and effectively.
+</p>
+
+      </td>
+      <td>
+
+<!-- Your GIF on the right side -->
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="250" alt="Animated Coding GIF">
+
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
-
-![Animated GIF](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)
 
 ## 💼 What’s Inside?
 
